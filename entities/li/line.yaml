@@ -53,10 +53,11 @@ offers:
     economics:
       consideration:
         kind: unknown
+        description: The public program page does not state separate consideration for applicants.
       benefits:
         - benefit_id: ben_primary
           description: LINE Platform Credits, including Official Account and LINE ads credits.
-          kind: credit
+          kind: other
         - benefit_id: ben_expert_support
           description: Support by LINE Experts, including API, technical, and business consultation.
           kind: other
