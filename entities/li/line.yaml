@@ -13,7 +13,7 @@ profile:
   description: LINE is a communication app that provides free voice calls and messages, alongside additional services.
   summary: LINE operates a messaging platform and related services, including a startup program for selected companies.
   links:
-    site: https://www.line.me/en/
+    site: https://linescaleup.landpress.line.me/home/
 sources:
   - source_id: src_3e9fb71f5dc2cf6b943434af6f7726a5d84f78f7279b30404f574aea5f2c444b
     url: https://www.line.me/en/
@@ -41,7 +41,7 @@ offers:
       rule:
         kind: manual
         criterion_id: cri_01
-        statement: Seed to Series A startup with a validated product idea, proven business model, solid traction and revenue base, aligned with LINE's focus areas and ecosystem.
+        statement: Seed to Series A startups with validated product ideas, a proven business model, and solid traction and revenue base.
         reason: external-verification
     roles:
       terms_authority_entity_id: ent_01kzs0r8sw096nns8690g0m1qa
@@ -53,10 +53,15 @@ offers:
     economics:
       consideration:
         kind: unknown
-        description: The public program page does not establish separate consideration for applicants.
       benefits:
         - benefit_id: ben_primary
-          description: Access to LINE platform resources for selected startups.
+          description: LINE Platform Credits, including Official Account and LINE ads credits.
+          kind: credit
+        - benefit_id: ben_expert_support
+          description: Support by LINE Experts, including API, technical, and business consultation.
+          kind: other
+        - benefit_id: ben_partnership
+          description: Strategic partnerships and investment opportunities with LINE and its affiliates.
           kind: other
     source_ids:
       - src_08a214e652980d1ac6ad8f41ad3932b9abadd2096ac03636441b8775a4ba736f
