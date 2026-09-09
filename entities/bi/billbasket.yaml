@@ -11,7 +11,7 @@ entity:
   category: finance-accounting
 profile:
   description: BillBasket provides point-of-sale, billing, invoicing, collections, customer ledger, and reconciliation software.
-  summary: BillBasket is offline-first POS and billing software for Indian businesses, covering billing, inventory, GST invoicing, and reports.
+  summary: BillBasket provides point-of-sale and billing software for businesses in India.
   links:
     site: https://www.billbasket.app
 sources:
