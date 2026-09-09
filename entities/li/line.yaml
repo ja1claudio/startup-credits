@@ -54,6 +54,9 @@ offers:
       consideration:
         kind: unknown
         description: No consideration is stated in the cited public program source.
-      benefits: []
+      benefits:
+        - benefit_id: ben_primary
+          description: LINE Platform Credits, including Official Account and LINE ads credits.
+          kind: other
     source_ids:
       - src_08a214e652980d1ac6ad8f41ad3932b9abadd2096ac03636441b8775a4ba736f
