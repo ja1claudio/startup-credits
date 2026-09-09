@@ -12,6 +12,7 @@ entity:
 profile:
   description: LINE is a communication app that provides free voice calls and messages, alongside additional services.
   summary: LINE operates a messaging platform and related services, including a startup program for selected companies.
+  links: {}
 sources:
   - source_id: src_3e9fb71f5dc2cf6b943434af6f7726a5d84f78f7279b30404f574aea5f2c444b
     url: https://www.line.me/en/
@@ -48,5 +49,6 @@ offers:
       availability: public
       method: form
       url: https://linescaleup.landpress.line.me/home/
+    economics: {}
     source_ids:
       - src_08a214e652980d1ac6ad8f41ad3932b9abadd2096ac03636441b8775a4ba736f
